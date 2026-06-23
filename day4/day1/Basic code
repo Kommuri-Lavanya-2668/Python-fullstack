@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Resume</title>
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f6f9;
+        margin: 40px;
+        color: #333;
+      }
+
+      h1 {
+        text-align: center;
+        color: white;
+        background-color: #1f4e79;
+        padding: 15px;
+        border-radius: 10px;
+      }
+
+      .contact {
+        text-align: right;
+        color: #555;
+      }
+
+      h2 {
+        color: white;
+        background-color: #4472c4;
+        padding: 8px;
+        border-radius: 5px;
+      }
+
+      hr {
+        border: 1px solid #4472c4;
+      }
+
+      ul {
+        line-height: 1.8;
+      }
+
+      p {
+        line-height: 1.6;
+      }
+
+      .container {
+        background-color: white;
+        padding: 25px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>KOMMURI LAVANYA</h1>
+
+      <div class="contact">
+        <p>Email: kommurilavanya2005@gmail.com</p>
+        <p>Phone: 7337504187</p>
+      </div>
+
+      <hr />
+
+      <h2>Career Objective</h2>
+      <p>
+        To obtain a challenging position where I can use my skills and
+        knowledge.
+      </p>
+
+      <h2>Education</h2>
+      <ul>
+        <li>
+          B.Tech - Chalapathi Institute of Engineering and Technology - 2026
+        </li>
+        <li>Intermediate - NRI College - 2022</li>
+        <li>SSC - ZPH High School - 2020</li>
+      </ul>
+
+      <h2>Skills</h2>
+      <ul>
+        <li>Python</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Java</li>
+      </ul>
+
+      <h2>Projects</h2>
+      <ul>
+        <li>GPS Based Emergency Alerting System</li>
+      </ul>
+
+      <h2>Personal Details</h2>
+      <p>Date of Birth: 14/11/2005</p>
+      <p>Languages Known: English, Telugu</p>
+
+      <h2>Declaration</h2>
+      <p>
+        I hereby declare that the above information is true to the best of my
+        knowledge.
+      </p>
+    </div>
+  </body>
+</html>
