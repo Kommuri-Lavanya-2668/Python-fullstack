@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selectors Example</title>
+
+    <style>
+        /* Class Selectors */
+        .ai {
+            color: green;
+        }
+
+        .cse {
+            color: red;
+        }
+
+        .ml {
+            color: blue;
+        }
+
+        /* Element Selectors */
+        h1 {
+            color: brown;
+        }
+
+        p {
+            color: hotpink;
+        }
+
+        /* ID Selector */
+        #csid {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="ai">
+        <h1>This is AI Students</h1>
+        <ol>
+            <li>Venkata Lakshmi</li>
+            <li>Lahari</li>
+            <li>Ramya</li>
+        </ol>
+    </div>
+
+    <div class="cse">
+        <h1>This is <span id="csid">CSE Students</span></h1>
+        <ol>
+            <li>Siva</li>
+            <li>Harshitha</li>
+            <li>Sandya</li>
+        </ol>
+    </div>
+
+    <div class="ml">
+        <p>This is ML Students</p>
+        <ul>
+            <li>Sujatha</li>
+            <li>Kalpana</li>
+            <li>Kavya</li>
+        </ul>
+    </div>
+
+</body>
+</html>
